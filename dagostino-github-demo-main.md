@@ -1,1 +1,1 @@
-git clone https://github.com/username/repo-name.git
+git checkout -b feature-demo
